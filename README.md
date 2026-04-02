@@ -89,6 +89,11 @@ The dataset includes the following key fields:
 
 ---
 
+## Check my Dashboard 👁️
+Below is the link to check my app
+
+  [Live Dashboard](https://public.tableau.com/app/profile/vinut.maradur/viz/HR_analytics_dashboard_17731095124930/HRAnalyticsDashboard) 🚀
+
 # Conclusion 🙌
 
 This HR Analytics Dashboard provides a comprehensive view of workforce data, enabling organizations to make informed decisions, improve employee satisfaction, and reduce attrition.
